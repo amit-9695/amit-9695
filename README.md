@@ -31,6 +31,6 @@ I'm eager to connect with like-minded individuals and explore new frontiers in t
 
 <a href="http://www.github.com/amit-9695"><img src="https://github-readme-stats.vercel.app/api?username=amit-9695&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="amit-9695's GitHub stats" /></a>
 
-<a href="http://www.github.com/amit-9695"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-9695&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=amit-9695&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=502)](https://git.io/streak-stats)
 
 <a href="https://github.com/amit-9695" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-9695&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
