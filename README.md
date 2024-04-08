@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amit Shukla
 ===================================================================================================================================
 
-* 🌍  I'm based in Lucknow,Uttar Pradesh
 * ✉️  You can contact me at [amit800blp@gmail.com](mailto:amit800blp@gmail.com)
 
 # About me 🚀
