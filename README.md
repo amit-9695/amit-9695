@@ -5,11 +5,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 # About me 🚀
 
-Hello! I'm Amit, a final year Computer Science Engineering student with a knack for transforming ideas into code. My journey through the realms of software development has been fueled by curiosity and a relentless pursuit of excellence. From the structural intricacies of C, Java, and Python to the creative challenges of Android and Django development, my path has been marked by a passion for solving complex problems with elegant, efficient solutions. 
+Hello! I'm Amit Shukla – a passionate Software Developer and recent BCA graduate with hands-on experience in building full-stack applications.
+My technical journey has evolved from writing basic scripts to developing scalable web solutions using technologies like Python, Django, MERN Stack (MongoDB, Express.js, React, Node.js), and MySQL.
 
-As a builder at heart, I'm drawn to the craft of coding not just as a profession but as a means to make a tangible impact. With a solid foundation in algorithms, data structures, and object-oriented design, I'm on a mission to contribute to the digital landscape with innovative software solutions. Beyond the code, I value collaboration, continuous learning, and the endless possibilities that technology brings to improve lives.
+With a strong foundation in data structures, algorithms, and object-oriented programming, I take pride in writing clean, maintainable code and crafting user-friendly digital experiences. Whether it's developing RESTful APIs with Django, building interactive UIs with React, or handling backend logic with Node.js – I enjoy every part of the development lifecycle.
 
-I'm eager to connect with like-minded individuals and explore new frontiers in technology. Let's create, innovate, and inspire together.
+I'm deeply driven by curiosity, collaboration, and the potential of technology to solve real-world problems. I thrive in fast-paced environments, love learning new tools and frameworks, and am always eager to contribute to impactful projects.
 
 ### Socials
 
